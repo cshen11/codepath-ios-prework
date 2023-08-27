@@ -23,3 +23,6 @@ An app I want to build is a travel app that people can record and share the phot
 - Sharing photos and videos
 - Adding location tag and time stamp
 - Exclusive for travel
+
+![](https://github.com/cshen11/codepath-ios-prework/blob/main/walkthrough.gif)https://github.com/cshen11/codepath-ios-prework/blob/main/walkthrough.gif)
+
